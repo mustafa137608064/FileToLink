@@ -17,5 +17,4 @@ How To Use:
    ADMINS
    DATABASE_URI
    URL (Your Koyeb Project URL (first write anything and select deploy, then edit with your real project link like https://anything.koyeb.app )
-4. 
-port
+4. set Exposed ports on 8080
