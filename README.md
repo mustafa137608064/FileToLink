@@ -7,3 +7,9 @@ How To Use:
 4. Mongo database URL
 5. Bot token
 6. Owner ID
+1. Sing in Koyeb and import Project
+2. set Builder = DockerFile
+3. 
+Bulider 
+URL
+port
